@@ -12,5 +12,7 @@ Organized Layers: The Figma file is structured with well-organized layers and gr
 `README.md`: This file, providing an overview of the repository and instructions for usage.
 
 ## Preview:
-![design]()
+![design](https://github.com/SANJAYSS-SRM-26/Travel-Booking-Application-UI-design-Mobile-Figma/blob/main/TBA.png)
+
+## Open for Customization
 
